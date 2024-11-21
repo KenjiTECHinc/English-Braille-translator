@@ -16,5 +16,5 @@ def rename_directories(path):
         print(f"Error: {e}")
 
 # Specify the path to the directory containing the folders
-directory_path = "data/raw/character_set3/"
+directory_path = "data/raw/character_set3/training_data"
 rename_directories(directory_path)

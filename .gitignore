@@ -1,3 +1,2 @@
-# too many files (250k), just ignore them.
-data/raw/character_set2
-data/raw/character_set3
+# ignore all dataset
+data/

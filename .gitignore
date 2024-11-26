@@ -1,2 +1,5 @@
-# ignore all dataset
-data/
+# Ignore everything in the data directory
+data/*
+
+# Do not ignore the test directory
+!data/test
